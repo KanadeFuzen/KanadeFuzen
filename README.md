@@ -7,7 +7,7 @@ Welcome to my profile! I'm a data scientist 👨‍💻, science nerd 🧬, and 
 - 🌱 I'm currently reside in Pennsylvania.
 - 💼 I’m currently looking for job as Data Scientist, Data Analyst, or Data Engineer.
 -----
-### Languages I know
+### Languages:
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
   ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
@@ -17,7 +17,7 @@ Welcome to my profile! I'm a data scientist 👨‍💻, science nerd 🧬, and 
   [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/WaqasKhwaja/)](https://github.com/WaqasKhwaja/)
   [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&link=https://github.com/WaqasKhwaja/)](https://github.com/WaqasKhwaja/)
   
-### Tech & Tools
+### Tech & Tools:
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
