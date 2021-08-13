@@ -5,11 +5,11 @@
 Welcome to my profile! I'm a data scientist 👨‍💻, science nerd 🧬, and a martial artist 🥋. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/waqas-khwaja/)!
 
 ### Tech & Tools Preference
-
-<img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 
 ### Languages I know
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
