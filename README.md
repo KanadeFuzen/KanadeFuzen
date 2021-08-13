@@ -28,6 +28,7 @@ Welcome to my profile! I'm a data scientist 👨‍💻, science nerd 🧬, and 
 ### Frameworks:
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
 -----
 ### Github Stats
 [![Waqas's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaqasKhwaja&theme=dark)](https://github.com/WaqasKhwaja/github-readme-stats)
