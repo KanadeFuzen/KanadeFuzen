@@ -1,5 +1,5 @@
 # Hi I'm Waqas! 👋
-[![Linkedin Badge](https://img.shields.io/badge/-WaqasKhwaja-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/waqas-khwaja)](https://www.linkedin.com/in/jlim/)
+[![Linkedin Badge](https://img.shields.io/badge/-WaqasKhwaja-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/waqas-khwaja)](https://www.linkedin.com/in/waqas-khwaja))
 [![Gmail Badge](https://img.shields.io/badge/-WaqasKhwaja-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:waqaskhwaja.business@gmail.com)](mailto:waqaskhwaja.business@gmail.com)
 
 Welcome to my profile! I'm a data scientist 👨‍💻, science nerd 🧬, and a martial artist 🥋. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/waqas-khwaja/)!
