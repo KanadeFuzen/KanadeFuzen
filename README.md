@@ -6,7 +6,7 @@ Welcome to my profile! I'm a data scientist 👨‍💻, science nerd 🧬, and 
 
 - 🌱 I'm currently reside in Pennsylvania.
 - 💼 I’m currently looking for job as Data Scientist, Data Analyst, or Data Engineer.
-
+-----
 ### Languages I know
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
@@ -28,7 +28,7 @@ Welcome to my profile! I'm a data scientist 👨‍💻, science nerd 🧬, and 
 ### Frameworks:
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
+-----
 ### Github Stats
 [![Waqas's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaqasKhwaja&theme=dark)](https://github.com/WaqasKhwaja/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaqasKhwaja&layout=compact&theme=dark)](https://github.com/WaqasKhwaja/github-readme-stats)
