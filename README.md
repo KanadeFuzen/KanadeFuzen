@@ -4,6 +4,9 @@
 
 Welcome to my profile! I'm a data scientist 👨‍💻, science nerd 🧬, and a martial artist 🥋. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/waqas-khwaja/)!
 
+- 🌱 I'm currently at: Pennslyvania.
+- 💼 I’m currently looking for job as Data Scientist, Data Analyst, or Data Engineer.
+
 ### Languages I know
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
