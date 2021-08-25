@@ -8,14 +8,14 @@ Welcome to my profile! I'm a data scientist 👨‍💻, science nerd 🧬, and 
 - 💼 I’m currently looking for job as Data Scientist, Data Analyst, or Data Engineer.
 -----
 ### Languages:
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-  ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Scipy](	https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
-  ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
-  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&link=https://github.com/WaqasKhwaja/)](https://github.com/WaqasKhwaja/)
-  [![SQL](https://img.shields.io/badge/-SQL-orange?style=for-the-badge&logo=sql&logoColor=white&link=https://github.com/WaqasKhwaja/)](https://github.com/WaqasKhwaja/)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)
+  ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)
+  ![Scipy](	https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+  ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white)
+  ![Plotly](https://img.shields.io/badge/Plotly-239120?style=flat&logo=plotly&logoColor=white)
+  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white&link=https://github.com/WaqasKhwaja/)](https://github.com/WaqasKhwaja/)
+  [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&logoColor=white&link=https://github.com/WaqasKhwaja/)](https://github.com/WaqasKhwaja/)
   
 ### Tech & Tools:
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
@@ -26,8 +26,8 @@ Welcome to my profile! I'm a data scientist 👨‍💻, science nerd 🧬, and 
 <img src="https://img.shields.io/badge/Docker-2CA5E0?flat&logo=docker&logoColor=white">
 
 ### Frameworks:
-![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
 -----
 ### Github Stats
