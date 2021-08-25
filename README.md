@@ -18,12 +18,7 @@ Welcome to my profile! I'm a data scientist 👨‍💻, science nerd 🧬, and 
   ![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=microsoft-sql-server&logoColor=white)
   
 ### Tech & Tools:
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2CA5E0?flat&logo=docker&logoColor=white">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2CA5E0?flat&logo=docker&logoColor=white">
 
 ### Frameworks:
 ![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=flat&logo=FASTAPI&logoColor=white)
