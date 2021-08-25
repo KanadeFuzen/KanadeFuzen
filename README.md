@@ -16,6 +16,7 @@ Welcome to my profile! I'm a data scientist 👨‍💻, science nerd 🧬, and 
   ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
   [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/WaqasKhwaja/)](https://github.com/WaqasKhwaja/)
   [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&link=https://github.com/WaqasKhwaja/)](https://github.com/WaqasKhwaja/)
+  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192??style=flat&logo=sql&link=https://github.com/WaqasKhwaja/)](https://github.com/WaqasKhwaja/)
   
 ### Tech & Tools:
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
