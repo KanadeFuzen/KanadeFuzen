@@ -26,7 +26,7 @@ Welcome to my profile! I'm a data scientist 👨‍💻, science nerd 🧬, and 
 <img src="https://img.shields.io/badge/Docker-2CA5E0?flat&logo=docker&logoColor=white">
 
 ### Frameworks:
-![FastAPI](https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=flat&logo=FASTAPI&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
 -----
