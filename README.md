@@ -15,7 +15,7 @@ Welcome to my profile! I'm a data scientist 👨‍💻, science nerd 🧬, and 
   ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white)
   ![Plotly](https://img.shields.io/badge/Plotly-239120?style=flat&logo=plotly&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-  ![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=postgresql&logoColor=white)
+  ![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=microsoft-sql-server&logoColor=white)
   
 ### Tech & Tools:
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
