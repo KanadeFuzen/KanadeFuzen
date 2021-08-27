@@ -13,8 +13,8 @@ Welcome to my profile! I'm a data scientist 👨‍💻, science nerd 🧬, and 
   ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)
   ![Scipy](	https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
   ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
   ![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=microsoft-sql-server&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-2E3440?style=flat&logo=sqlite)
   
