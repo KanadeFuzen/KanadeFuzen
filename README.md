@@ -1,4 +1,4 @@
-# Hello, I'm Waqas! 👋
+# Hello, I'm Kanade! 👋
 [![Linkedin Badge](https://img.shields.io/badge/-WaqasKhwaja-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/waqas-khwaja)](https://www.linkedin.com/in/waqas-khwaja)
 [![Medium Badge](https://img.shields.io/badge/-WaqasKhwaja-c14438?style=flat&logo=Medium&logoColor=white&link=https://waqaskhwaja-business.medium.com)](https://waqaskhwaja-business.medium.com)
 
