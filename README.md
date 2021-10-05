@@ -29,5 +29,5 @@ Welcome to my profile! I'm a data scientist 👨‍💻, science nerd 🧬, and 
 
 -----
 ### Github Stats
-[![Waqas's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaqasKhwaja&theme=dark)](https://github.com/WaqasKhwaja/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaqasKhwaja&layout=compact&theme=dark)](https://github.com/WaqasKhwaja/github-readme-stats)
+[![Kanades's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanadeFuzen&theme=dark)](https://github.com/KanadeFuzen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KanadeFuzen&layout=compact&theme=dark)](https://github.com/KanadeFuzen/github-readme-stats)
