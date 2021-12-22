@@ -1,8 +1,8 @@
 # Hello, I'm Kanade! 👋
-[![Linkedin Badge](https://img.shields.io/badge/-KanadeFuzen-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/waqas-khwaja)](https://www.linkedin.com/in/waqas-khwaja)
-[![Medium Badge](https://img.shields.io/badge/-KanadeFuzen-c14438?style=flat&logo=Medium&logoColor=white&link=https://waqaskhwaja-business.medium.com)](https://waqaskhwaja-business.medium.com)
+[![Linkedin Badge](https://img.shields.io/badge/-KanadeFuzen-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/KanadeFuzen/)](https://www.linkedin.com/in/KanadeFuzen/)
+[![Medium Badge](https://img.shields.io/badge/-KanadeFuzen-c14438?style=flat&logo=Medium&logoColor=white&link=https://kanadefuzen.medium.com)](https://kanadefuzen.medium.com)
 
-Welcome to my profile! I'm a data scientist 👨‍💻, science nerd 🧬, and a martial artist 🥋. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/waqas-khwaja/)!
+Welcome to my profile! I'm a data scientist 👨‍💻, science nerd 🧬, and a martial artist 🥋. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/KanadeFuzen/)!
 
 - 🌱 I'm currently reside in Pennsylvania.
 - 💼 I’m currently looking for job as Data Scientist, Data Analyst, or Data Engineer.
