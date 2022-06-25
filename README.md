@@ -5,7 +5,7 @@
 Welcome to my profile! I'm a data scientist 👨‍💻, science nerd 🧬, and a martial artist 🥋. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/KanadeFuzen/)!
 
 - 🌱 I'm currently reside in Pennsylvania.
-- 💼 I’m currently looking for job as Data Scientist, Data/Business Analyst, or Data Engineer.
+- 💼 I’m currently pursuing for a career as a Data Scientist, Data/Business Analyst, or Data Engineer.
 -----
 ### Languages:
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
